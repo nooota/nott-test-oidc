@@ -18,7 +18,7 @@ public class AuthController {
 
     private String tokenEndpoint = "http://localhost:8080/realms/nott-test-oidc/protocol/openid-connect/token";
     private String clientId = "nott";
-    private String clientSecret = "jNzbvQ302jLgujPfvmfty9YadFbzQGOc";
+    private String clientSecret = "2gJ0CcCX3qwgWmwR1bLQg1fejf1ho77F";
 
     @Autowired
     private RestTemplate restTemplate;
